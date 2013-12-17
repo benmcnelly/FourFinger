@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\2d_images\goSantaC.cs">
     <Files>
-      <File FileName="Assets\2d_images\goSantaC.cs" Line="1" Column="1" />
-      <File FileName="Assets\2d_images\exitapp.cs" Line="1" Column="1" />
+      <File FileName="Assets\2d_images\goSantaC.cs" Line="25" Column="37" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

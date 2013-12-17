@@ -14,15 +14,18 @@ public class goSantaC : MonoBehaviour {
 		if (fingerCount == 1)
 		{
 			Debug.Log("There is " + fingerCount + " finger touching the screen");
-			rigidbody2D.AddForce(Vector3.right * 35);
+			Vector2 v2Force = 35 * transform.right;
+			rigidbody2D.AddForce(v2Force);
 		}else if (fingerCount ==2)
 		{
 			Debug.Log("There is " + fingerCount + " fingers touching the screen");
-			rigidbody2D.AddForce(Vector3.up * 25);
+			Vector2 v2Forceup = 35 * transform.up;
+			rigidbody2D.AddForce(v2Forceup);
 		}else if (fingerCount ==3)
 		{
 			Debug.Log("There is " + fingerCount + " fingers touching the screen");
-			rigidbody2D.AddForce(Vector3.left * 25);
+			Vector2 v2Forceleft = -35 * transform.right;
+			rigidbody2D.AddForce(v2Forceleft);
 		}
 	}
 }
