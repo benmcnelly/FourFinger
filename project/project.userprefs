@@ -2,7 +2,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\2d_images\goSantaC.cs">
     <Files>
-      <File FileName="Assets\2d_images\goSantaC.cs" Line="25" Column="37" />
+      <File FileName="Assets\follow.js" Line="14" Column="2" />
+      <File FileName="Assets\2d_images\goSantaC.cs" Line="40" Column="23" />
+      <File FileName="Assets\follow.js" Line="14" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
